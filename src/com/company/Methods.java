@@ -22,7 +22,8 @@ public class Methods {
     /**
      * Вычисляем произведение введенных чисел
      */
-    public static int multiplication(int firstNum, int secondNum, int thirdNum) {
-        return firstNum * secondNum * thirdNum;
+    public static int multiplication(int height, int width, int length) {
+        return height * width * length;
     }
 }
+
